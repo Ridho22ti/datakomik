@@ -1,0 +1,44 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Peerless Regression of the Dragonslayer / 용살자의 역대급 회귀",
+  "status": "Ongoing",
+  "author": "Swimming Sun",
+  "artist": "Blue-Line",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Slayer naga terkuat umat manusia, Siegfried, gagal membunuh naga terakhir dan menemui ajalnya. Namun, dia tiba-kira terbangun kembali ke masa lalu saat dia masih menjadi seorang rekrutan muda yang belum memiliki kekuatan apa pun. Dengan ingatan masa depan dan tekad untuk menyelamatkan dunia dari kehancuran, ia memulai kembali perjalanannya dari titik nol menuju puncak kekuatan tertinggi.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1.0,
+      "chapter_title": "Kembalinya Sang Pembantai Naga",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2.0,
+      "chapter_title": "Memulai dari Titik Nol",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/005.jpg"
+      ]
+    }
+  ]
+}
