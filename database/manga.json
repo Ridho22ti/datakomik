@@ -1,44 +1,23 @@
-{
-  "manga_id": "a-cadet-beomes-a-prophet",
-  "title": "A Cadet Becomes a Prophet",
-  "alternative_title": "The Peerless Regression of the Dragonslayer / 용살자의 역대급 회귀",
-  "status": "Ongoing",
-  "author": "Swimming Sun",
-  "artist": "Blue-Line",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Slayer naga terkuat umat manusia, Siegfried, gagal membunuh naga terakhir dan menemui ajalnya. Namun, dia tiba-kira terbangun kembali ke masa lalu saat dia masih menjadi seorang rekrutan muda yang belum memiliki kekuatan apa pun. Dengan ingatan masa depan dan tekad untuk menyelamatkan dunia dari kehancuran, ia memulai kembali perjalanannya dari titik nol menuju puncak kekuatan tertinggi.",
-  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1.0,
-      "chapter_title": "Kembalinya Sang Pembantai Naga",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2.0,
-      "chapter_title": "Memulai dari Titik Nol",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/comics/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "790821861aefb75dde99a774dd980ff37ba2b669",
+    "title": "A Cadet Becomes a Prophet",
+    "download_url": "https://raw.githubusercontent.com/Ridho22ti/datakomik/main/fantasy/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "category": "fantasy",
+    "cover": "https://placehold.co/300x400/1a1a1a/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet"
+  },
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "download_url": "https://raw.githubusercontent.com/Ridho22ti/datakomik/main/fantasy/Children%20of%20the%20Rune.cbz",
+    "category": "fantasy",
+    "cover": "https://placehold.co/300x400/1a1a1a/39ff14?text=Children%20of%20the%20Rune"
+  },
+  {
+    "id": "739e547e924411a146ca6dd5d01287dc12e4ee3b",
+    "title": "My Exclusive Tower Guide",
+    "download_url": "https://raw.githubusercontent.com/Ridho22ti/datakomik/main/fantasy/My%20Exclusive%20Tower%20Guide.cbz",
+    "category": "fantasy",
+    "cover": "https://placehold.co/300x400/1a1a1a/39ff14?text=My%20Exclusive%20Tower%20Guide"
+  }
+]
